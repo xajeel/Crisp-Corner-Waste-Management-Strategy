@@ -17,12 +17,13 @@ Conduct a comprehensive analysis of Crisp Corner's past 3 to 4 years of data rel
 The primary aim of this project is to provide actionable insights and recommendations to Mr. Arslan, the owner of Crisp Corner.
 
 ## Insights
-- Restaurant wasted nearly 3.3% of raw material each year
-- Damaging, over cooking and unsold inventory, these reasons contribute nearly equaly in the wastage generation
-- Resturant lost nearly 2.2% of total revenue due to wastage each year.
-- Each year atleast 1% of raw material is unsold
-- Although the wastage percentage remains consistent annually at around 3.3%, it's essential to further analyze each stage of food preparation and service.
-- Implement targeted training programs for staff to handle ingredients more efficiently, improve cooking techniques, and revise menu items to minimize wastage without compromising quality.
-- 2.2% of total revenue loss due to wastage is significant. Consider introducing strategies to mitigate this loss.
-- Raw material can be reduced by 1% for next year 
+- Restaurant waste nearly 3.3% of raw materials each year
+- Damaging, overcooking, and unsold inventory, these reasons contribute nearly equally to the wastage generation
+- Restaurant lost nearly 2.2% of total revenue due to wastage each year.
+- Each year at least 1% of raw materials is unsold
+
 ## Recommendation
+- Although the wastage percentage remains consistent annually at around 3.3%, it's essential further to analyze each stage of food preparation and service.
+- Implement targeted training programs for staff to handle ingredients more efficiently, improve cooking techniques, and revise menu items to minimize wastage without compromising quality.
+- 2.2% of total revenue loss due to wastage is significant. Could you consider introducing strategies to mitigate this loss?
+- Raw material can be reduced by 1% for next year 
